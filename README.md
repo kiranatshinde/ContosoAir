@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kiranshinde0279/ContosoAir/_apis/build/status%2Fkiranatshinde.ContosoAir?branchName=master)](https://dev.azure.com/kiranshinde0279/ContosoAir/_build/latest?definitionId=3&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
